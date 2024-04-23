@@ -1,5 +1,5 @@
-#Wireshark for Termux.
-
+# Wireshark for Termux.
+Note:- This Work Only on Rooted Devices.
 
 Installation:-----
 1. Install Termux xfce4 Version Form Here [https://github.com/dark-assist/termux-gui]
